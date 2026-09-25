@@ -24,3 +24,4 @@ Por el momento no tengo dudas pendientes. La práctica me ha permitido familiari
 | 3 | `1594233` | Agregar sección de historial de la práctica al README | Se incorporó al README una sección destinada a documentar cronológicamente los cambios realizados durante la práctica. |
 | 4 | `d0b0ae5` | Añadir página de contacto | Se añadió `contacto/contacto.html`, una página HTML básica con el título «Contacto» y un encabezado principal. |
 | 5 | `7d2a243` | Imagen de jugador | Se agregó `player.png` como recurso gráfico del proyecto. |
+| 6 | `41d99e4` | Actualizar README.md para incluir una descripción detallada del proyecto y su historial de cambios | Se mejoró la documentación general del proyecto y se añadió una tabla con la explicación cronológica de los commits realizados. |
